@@ -46,7 +46,7 @@ const MyWork = () => {
         </div>
         <div className="mywork-container4">
             <a href="https://github.com/Thapaswinithota/Netflix-Clone.git" target="_blank" rel="noopener noreferrer">
-            <h1>4. Netflix Clone-06/2024</h1>
+            <h1>4. StreamFlix-06/2024</h1>
             </a>
             {/* <img src={netflix} alt="" /> */}
             {/* <p>*Implemented user authentication, movie browsing, and streaming features using React.js and Firebase for a seamless user experience.</p>
